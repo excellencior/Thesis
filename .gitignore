@@ -4,6 +4,7 @@ toy_datasets/
 models
 models_inference
 work_dirs/
+Data/
 wandb
 datasets
 .idea
